@@ -13,6 +13,7 @@ Group: Networking/WWW
 %ifnarch %ix86 x86_64 ia64
 AutoReq: off
 %endif
+BuildRoot: %_tmppath/%name-%version-%release-buildroot
 URL: http://www.gibix.net/projects/nspluginwrapper/
 
 %description
