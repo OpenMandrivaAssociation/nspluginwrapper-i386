@@ -6,7 +6,7 @@
 Summary: A compatibility layer for Netscape 4 plugins
 Name: nspluginwrapper-i386
 Version: 0.9.90.1
-Release: %mkrel 3
+Release: %mkrel 5
 Source: nspluginwrapper-i386-0.9.90.1.tar.bz2
 License: GPL
 Group: Networking/WWW
