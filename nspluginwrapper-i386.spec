@@ -14,7 +14,7 @@ Group: Networking/WWW
 AutoReq: off
 %endif
 BuildRoot: %_tmppath/%name-%version-%release-buildroot
-URL: http://www.gibix.net/projects/nspluginwrapper/
+URL: https://www.gibix.net/projects/nspluginwrapper/
 
 %description
 nspluginwrapper makes it possible to use Netscape 4 compatible plugins
